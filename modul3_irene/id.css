@@ -1,0 +1,15 @@
+#judul_utama {
+    color: rgb(253, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#paragraf_pembuka {
+    font-size: large;
+    color: aqua;
+    font-weight: bolder;
+}
+
+.teks_biasa {
+    font-style: italic;
+    color: darkgreen;
+}

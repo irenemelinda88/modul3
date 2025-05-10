@@ -1,0 +1,15 @@
+#judul_utama {
+    color: #8a2be2;
+    font-family: Arial, sans-serif;
+}
+
+#paragraf_pembuka {
+    font-size: 18px;
+    color: #2e8b57;
+    font-weight: bold;
+}
+
+.teks_biasa {
+    font-style: italic;
+    color: #333;
+}
